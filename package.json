@@ -1,0 +1,9 @@
+{
+  "name": "ghostline777",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ghostline promotional website",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
